@@ -64,7 +64,7 @@ The Power BI dashboard provides an overview of coffee shop sales performance, in
 
 ### Dashboard Preview
 
-![Coffee Shop Sales Dashboard](Project2.png)
+![Coffee Shop Sales Dashboard](Coffee_Shop_Sales.png)
 
 ---
 
@@ -76,7 +76,7 @@ The SQL queries were used to check whether the values displayed in the Power BI 
 
 The SQL file containing the queries is available in this repository:
 
-`Project2.sql`
+`Coffee_Shop_Sales.sql`
 
 ---
 
@@ -84,10 +84,10 @@ The SQL file containing the queries is available in this repository:
 
 | File | Description |
 |------|-------------|
-| `Coffee Shop Sales.xlsx` | Original source dataset |
-| `Project2.sql` | SQL queries used for analysis and validation |
-| `Project2.pbix` | Power BI dashboard |
-| `Project2.png` | Dashboard preview |
+| `Coffee_Shop_Sales.xlsx` | Original source dataset |
+| `Coffee_Shop_Sales.sql` | SQL queries used for analysis and validation |
+| `Coffee_Shop_Sales.pbix` | Power BI dashboard |
+| `Coffee_Shop_Sales.png` | Dashboard preview |
 | `README.md` | Project documentation |
 
 ---
